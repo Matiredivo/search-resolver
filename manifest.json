@@ -1,5 +1,5 @@
 {
-  "vendor": "vtex",
+  "vendor": "ecomsultores",
   "name": "search-resolver",
   "version": "0.16.10",
   "title": "GraphQL resolver for the VTEX store APIs",
